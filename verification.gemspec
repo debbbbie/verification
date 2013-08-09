@@ -1,12 +1,12 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "verification"
+  s.name        = "verification_ext"
   s.version     = "1.0.3"
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["David Heinemeier Hansson"]
-  s.email       = ["david@loudthinking.com"]
-  s.homepage    = "https://rubygems.org/gems/verification"
+  s.authors     = ["debbbbie"]
+  s.email       = ["debbbbie@163.com.com"]
+  s.homepage    = "https://github.com/debbbbie/verification"
   s.summary     = %q{Verify preconditions for Rails actions}
   s.description = %q{Verify preconditions for Rails actions}
 
